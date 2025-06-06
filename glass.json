@@ -1,0 +1,16 @@
+{
+  "material_name": "Скло",
+  "L": 1.0,
+  "Nx": 100,
+  "Ny": 100,
+  "alpha": 5.0e-7,  
+  "simulation_time": 500.0,
+  "T_initial": 20.0,
+  "heat_source_type": "point",
+  "T_boundary_edge": 100.0,
+  "hotspot_center": [0.3, 0.7],
+  "hotspot_radius": 0.08,
+  "hotspot_temperature": 150.0,
+  "animation_frames": 16,
+  "static_frames": 8
+}
